@@ -1,7 +1,7 @@
 # Firefox extension to Load JSON-LD
 
-License: Apache 2.0
-Author: Matthew B. Jones
+- License: Apache 2.0
+- Author: Matthew B. Jones
 
 This is a simple Firefox extension that provides a button on the toolbar to load JSON-LD from a web page into the [JSON-LD Playground]() site. The Playground makes it easy to inspect and visualize JSON-LD, so this button makes it fast to go from a web page to the Playground. 
 
