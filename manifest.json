@@ -1,0 +1,23 @@
+{
+
+  "description": "Load JSON-LD Playground",
+  "manifest_version": 2,
+  "name": "load-json-ld",
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/page-16.png",
+      "32": "icons/page-32.png"
+    }
+  }
+
+}
