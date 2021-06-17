@@ -1,8 +1,7 @@
 {
-
   "description": "Load in JSON-LD Playground",
   "manifest_version": 2,
-  "name": "load-json-ld",
+  "name": "jsonld-pg",
   "version": "1.0",
 
   "background": {
@@ -19,5 +18,4 @@
       "32": "icons/json-ld-data-32.png"
     }
   }
-
 }
